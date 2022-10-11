@@ -374,12 +374,12 @@ namespace FrontEndAnimalShelter
         {
             if (selectedRows != null)
             {
-                Form perscriptionForm = new AddPerscriptionForm(selectedRows);  //animal has been selected from the grid
+                Form perscriptionForm = new AddPrescriptionForm(selectedRows);  //animal has been selected from the grid
                 perscriptionForm.Visible = true;
             }
             else
             {
-                Form perscriptionForm = new AddPerscriptionForm();  //user will input the animal ID
+                Form perscriptionForm = new AddPrescriptionForm();  //user will input the animal ID
                 perscriptionForm.Visible = true;
             }
         }

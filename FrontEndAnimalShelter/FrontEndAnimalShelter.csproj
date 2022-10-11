@@ -57,11 +57,11 @@
     <Compile Include="AddAnimalForm.Designer.cs">
       <DependentUpon>AddAnimalForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="AddPerscriptionForm.cs">
+    <Compile Include="AddPrescriptionForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="AddPerscriptionForm.Designer.cs">
-      <DependentUpon>AddPerscriptionForm.cs</DependentUpon>
+    <Compile Include="AddPrescriptionForm.Designer.cs">
+      <DependentUpon>AddPrescriptionForm.cs</DependentUpon>
     </Compile>
     <Compile Include="AddVaccineForm.cs">
       <SubType>Form</SubType>
@@ -116,8 +116,8 @@
     <EmbeddedResource Include="AddAnimalForm.resx">
       <DependentUpon>AddAnimalForm.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="AddPerscriptionForm.resx">
-      <DependentUpon>AddPerscriptionForm.cs</DependentUpon>
+    <EmbeddedResource Include="AddPrescriptionForm.resx">
+      <DependentUpon>AddPrescriptionForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="AddVaccineForm.resx">
       <DependentUpon>AddVaccineForm.cs</DependentUpon>

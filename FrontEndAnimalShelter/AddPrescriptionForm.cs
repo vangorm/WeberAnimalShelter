@@ -11,16 +11,16 @@ using DataAccessLayer;
 
 namespace FrontEndAnimalShelter
 {
-    public partial class AddPerscriptionForm : Form
+    public partial class AddPrescriptionForm : Form
     {
         List<int> animaIds = new List<int>();
         DataGridViewRow medicationRow;
-        public AddPerscriptionForm()
+        public AddPrescriptionForm()
         {
             InitializeComponent();
             MoreInitializing();
         }
-        public AddPerscriptionForm(DataGridViewSelectedRowCollection selectedAnimals)
+        public AddPrescriptionForm(DataGridViewSelectedRowCollection selectedAnimals)
         {
             InitializeComponent();
             MoreInitializing();

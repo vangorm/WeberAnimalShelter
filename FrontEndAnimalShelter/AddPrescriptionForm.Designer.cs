@@ -1,6 +1,6 @@
 ﻿namespace FrontEndAnimalShelter
 {
-    partial class AddPerscriptionForm
+    partial class AddPrescriptionForm
     {
         /// <summary>
         /// Required designer variable.
