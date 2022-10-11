@@ -121,7 +121,6 @@
             this.lblDose.Size = new System.Drawing.Size(32, 13);
             this.lblDose.TabIndex = 4;
             this.lblDose.Text = "Dose";
-            this.lblDose.Click += new System.EventHandler(this.lblDose_Click);
             // 
             // txtDose
             // 
@@ -141,7 +140,6 @@
             this.lblMethod.Size = new System.Drawing.Size(43, 13);
             this.lblMethod.TabIndex = 6;
             this.lblMethod.Text = "Method";
-            this.lblMethod.Click += new System.EventHandler(this.lblMethod_Click);
             // 
             // lblStartDate
             // 
@@ -381,9 +379,8 @@
             this.additionalInfoLabel.Size = new System.Drawing.Size(94, 17);
             this.additionalInfoLabel.TabIndex = 32;
             this.additionalInfoLabel.Text = "Medications";
-            this.additionalInfoLabel.Click += new System.EventHandler(this.additionalInfoLabel_Click);
             // 
-            // AddPerscriptionForm
+            // AddPrescriptionForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -410,9 +407,9 @@
             this.Controls.Add(this.txtAnimalid);
             this.Controls.Add(this.lblAnimalid);
             this.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
-            this.Name = "AddPerscriptionForm";
+            this.Name = "AddPrescriptionForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Create Prescription";
+            this.Text = "Add Prescription";
             ((System.ComponentModel.ISupportInitialize)(this.dgMedicationTable)).EndInit();
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();

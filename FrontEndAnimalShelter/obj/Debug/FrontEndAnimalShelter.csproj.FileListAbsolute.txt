@@ -456,7 +456,6 @@ C:\Users\Sophia\Desktop\school\CS\AnimalShelter2022\FrontEndAnimalShelter\obj\De
 C:\Users\Sophia\Desktop\school\CS\AnimalShelter2022\FrontEndAnimalShelter\obj\Debug\FrontEndAnimalShelter.csproj.SuggestedBindingRedirects.cache
 C:\Users\Sophia\Desktop\school\CS\AnimalShelter2022\FrontEndAnimalShelter\obj\Debug\FrontEndAnimalShelter.exe.config
 C:\Users\Sophia\Desktop\school\CS\AnimalShelter2022\FrontEndAnimalShelter\obj\Debug\FrontEndAnimalShelter.AddAnimalForm.resources
-C:\Users\Sophia\Desktop\school\CS\AnimalShelter2022\FrontEndAnimalShelter\obj\Debug\FrontEndAnimalShelter.AddPerscriptionForm.resources
 C:\Users\Sophia\Desktop\school\CS\AnimalShelter2022\FrontEndAnimalShelter\obj\Debug\FrontEndAnimalShelter.AddVaccineForm.resources
 C:\Users\Sophia\Desktop\school\CS\AnimalShelter2022\FrontEndAnimalShelter\obj\Debug\FrontEndAnimalShelter.AdminMedicationForm.resources
 C:\Users\Sophia\Desktop\school\CS\AnimalShelter2022\FrontEndAnimalShelter\obj\Debug\FrontEndAnimalShelter.MDI.resources
@@ -471,3 +470,4 @@ C:\Users\Sophia\Desktop\school\CS\AnimalShelter2022\FrontEndAnimalShelter\obj\De
 C:\Users\Sophia\Desktop\school\CS\AnimalShelter2022\FrontEndAnimalShelter\obj\Debug\FrontEndAnimalShelter.csproj.CopyComplete
 C:\Users\Sophia\Desktop\school\CS\AnimalShelter2022\FrontEndAnimalShelter\obj\Debug\FrontEndAnimalShelter.exe
 C:\Users\Sophia\Desktop\school\CS\AnimalShelter2022\FrontEndAnimalShelter\obj\Debug\FrontEndAnimalShelter.pdb
+C:\Users\Sophia\Desktop\school\CS\AnimalShelter2022\FrontEndAnimalShelter\obj\Debug\FrontEndAnimalShelter.AddPrescriptionForm.resources
