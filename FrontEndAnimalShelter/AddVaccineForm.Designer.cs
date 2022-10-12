@@ -98,7 +98,7 @@
             // txtAnimalId
             // 
             this.txtAnimalId.Location = new System.Drawing.Point(80, 10);
-            this.txtAnimalId.Margin = new System.Windows.Forms.Padding(1, 1, 1, 1);
+            this.txtAnimalId.Margin = new System.Windows.Forms.Padding(1);
             this.txtAnimalId.Name = "txtAnimalId";
             this.txtAnimalId.Size = new System.Drawing.Size(196, 20);
             this.txtAnimalId.TabIndex = 5;
@@ -107,7 +107,7 @@
             // 
             this.dgVaccineTable.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgVaccineTable.Location = new System.Drawing.Point(15, 60);
-            this.dgVaccineTable.Margin = new System.Windows.Forms.Padding(1, 1, 1, 1);
+            this.dgVaccineTable.Margin = new System.Windows.Forms.Padding(1);
             this.dgVaccineTable.MultiSelect = false;
             this.dgVaccineTable.Name = "dgVaccineTable";
             this.dgVaccineTable.ReadOnly = true;
@@ -122,7 +122,7 @@
             // 
             this.dateGiven.Format = System.Windows.Forms.DateTimePickerFormat.Short;
             this.dateGiven.Location = new System.Drawing.Point(113, 205);
-            this.dateGiven.Margin = new System.Windows.Forms.Padding(1, 1, 1, 1);
+            this.dateGiven.Margin = new System.Windows.Forms.Padding(1);
             this.dateGiven.Name = "dateGiven";
             this.dateGiven.Size = new System.Drawing.Size(78, 20);
             this.dateGiven.TabIndex = 7;
@@ -131,7 +131,7 @@
             // 
             this.dateDue.Format = System.Windows.Forms.DateTimePickerFormat.Short;
             this.dateDue.Location = new System.Drawing.Point(113, 231);
-            this.dateDue.Margin = new System.Windows.Forms.Padding(1, 1, 1, 1);
+            this.dateDue.Margin = new System.Windows.Forms.Padding(1);
             this.dateDue.Name = "dateDue";
             this.dateDue.Size = new System.Drawing.Size(78, 20);
             this.dateDue.TabIndex = 8;
@@ -139,7 +139,7 @@
             // txtEmpId
             // 
             this.txtEmpId.Location = new System.Drawing.Point(113, 262);
-            this.txtEmpId.Margin = new System.Windows.Forms.Padding(1, 1, 1, 1);
+            this.txtEmpId.Margin = new System.Windows.Forms.Padding(1);
             this.txtEmpId.Name = "txtEmpId";
             this.txtEmpId.Size = new System.Drawing.Size(78, 20);
             this.txtEmpId.TabIndex = 9;
@@ -149,7 +149,7 @@
             this.btnSubmit.BackColor = System.Drawing.Color.DarkSlateBlue;
             this.btnSubmit.ForeColor = System.Drawing.Color.White;
             this.btnSubmit.Location = new System.Drawing.Point(266, 224);
-            this.btnSubmit.Margin = new System.Windows.Forms.Padding(1, 1, 1, 1);
+            this.btnSubmit.Margin = new System.Windows.Forms.Padding(1);
             this.btnSubmit.Name = "btnSubmit";
             this.btnSubmit.Size = new System.Drawing.Size(74, 32);
             this.btnSubmit.TabIndex = 10;
@@ -189,7 +189,7 @@
             this.Controls.Add(this.lblEmployeeId);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.lblAnimalId);
-            this.Margin = new System.Windows.Forms.Padding(1, 1, 1, 1);
+            this.Margin = new System.Windows.Forms.Padding(1);
             this.Name = "AddVaccineForm";
             this.Text = "Vaccination Administration";
             ((System.ComponentModel.ISupportInitialize)(this.dgVaccineTable)).EndInit();

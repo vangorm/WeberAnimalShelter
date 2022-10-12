@@ -52,7 +52,7 @@
             // 
             this.dgVaccineToDo.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgVaccineToDo.Location = new System.Drawing.Point(32, 89);
-            this.dgVaccineToDo.Margin = new System.Windows.Forms.Padding(1, 1, 1, 1);
+            this.dgVaccineToDo.Margin = new System.Windows.Forms.Padding(1);
             this.dgVaccineToDo.Name = "dgVaccineToDo";
             this.dgVaccineToDo.RowHeadersWidth = 102;
             this.dgVaccineToDo.RowTemplate.Height = 40;
@@ -63,7 +63,7 @@
             // 
             this.dgPrescriptions.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgPrescriptions.Location = new System.Drawing.Point(32, 287);
-            this.dgPrescriptions.Margin = new System.Windows.Forms.Padding(1, 1, 1, 1);
+            this.dgPrescriptions.Margin = new System.Windows.Forms.Padding(1);
             this.dgPrescriptions.Name = "dgPrescriptions";
             this.dgPrescriptions.RowHeadersWidth = 102;
             this.dgPrescriptions.RowTemplate.Height = 40;
@@ -103,7 +103,7 @@
             this.Controls.Add(this.dgVaccineToDo);
             this.Controls.Add(this.headerDate);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.Margin = new System.Windows.Forms.Padding(1, 1, 1, 1);
+            this.Margin = new System.Windows.Forms.Padding(1);
             this.Name = "ToDoForm";
             this.Text = "ToDoForm";
             this.Load += new System.EventHandler(this.ToDoForm_Load);
